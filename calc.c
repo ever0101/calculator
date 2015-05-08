@@ -11,7 +11,7 @@ int main ()
 		printf("%d",sum);
 	}
 	
-
+		printf("result is %d",sum);
 
 return 0;
 
